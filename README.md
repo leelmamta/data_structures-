@@ -30,7 +30,13 @@ Another method to do k-nearly sorted array to be sorted in o(nlogk) time is divi
 Another is Binary heap for k-nearly sorted array . Insert first k elements to the binary heap and then extract min elemeent and enter the new element . Repeat . 
 
 There are some questions in the repository 
-#### Day2 - Searching and Rotation 
+#### Day2 - Searching 
+##### Linear search 
+##### Binary Search 
+##### Interpolation search 
+
+#### Day 3 Rotation 
+
 #### Day3 - Arrangement Rearrangement & Order Statistics
 #### Day4 - Matrix 
 #### Day5 - Optimization Problems 
