@@ -35,23 +35,8 @@ There are some questions in the repository
 ##### Binary Search 
 ##### Interpolation search 
 
-#### Day 3 Rotation 
 
-#### Day3 - Arrangement Rearrangement & Order Statistics
-#### Day4 - Matrix 
-#### Day5 - Optimization Problems 
+## Week 2 : - Stack and queues +interview bit - array + LL + Stack + queue + maths track 
 
-## Linked List 
-#### Day6 - Complete LL 
-## Stack 
-#### Day7 - Stack 
-## queues 
-#### Day8 - queues 
-## Trees 
-#### Day 9 , 10 , 11 , 12 
-## Graph 
-#### Day 13 14 15 16 
-## Dynamic Programming 
-#### Day 17 18 19 20 
 
 
