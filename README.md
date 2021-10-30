@@ -35,8 +35,8 @@ There are some questions in the repository
 ##### Binary Search 
 ##### Interpolation search 
 
-
-## Week 2 : - Stack and queues +interview bit - array + LL + Stack + queue + maths track 
+oct -30 Today i am doing disjoint sets 
+Resources :- Clrs , Narshimha Karumanchi , Geeks for geeks 
 
 
 
