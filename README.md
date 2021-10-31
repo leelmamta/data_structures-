@@ -35,8 +35,11 @@ There are some questions in the repository
 ##### Binary Search 
 ##### Interpolation search 
 
-oct -30 Today i am doing disjoint sets 
-Resources :- Clrs , Narshimha Karumanchi , Geeks for geeks 
+#### Trees -> Binary Trees 
+##### Traversals Methods 
+##### All Binary Tree Leetcode 
+
+
 
 
 
